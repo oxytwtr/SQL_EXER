@@ -11,7 +11,7 @@ from airflow.models.xcom import XCom
 from airflow.utils.task_group import TaskGroup
 
 pg_connect_ = {
-    'dbname': 'student74_vasilyev_ab',
+    'dbname': 'xxx',
     'host': 'localhost',
     'port': 5432,
     'user': 'xxx',
@@ -19,11 +19,11 @@ pg_connect_ = {
 }
 
 pg_connect = {
-    'dbname': 'student74_vasilyev_ab',
-    'host': '10.4.49.51',
+    'dbname': 'xxx',
+    'host': 'xxx',
     'port': 5432,
-    'user': 'Student74',
-    'password': 'Eb85U76P61Q32BkN'
+    'user': 'xxx',
+    'password': 'xxx'
 }
 
 # SRC func generator orders
